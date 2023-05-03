@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="jump_duration">10</integer>
+    <integer name="rotate_duration">1000</integer>
+    <integer name="color_duration">10</integer>
+</resources>
